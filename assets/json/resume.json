@@ -47,15 +47,17 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Instituto de Física de São Carlos - Universidade de São Paulo",
+      "location": "São Carlos, Brasil",
+      "url": "https://www.ifsc.usp.br/",
+      "area": "Quantum Computing and Quantum Control",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2019-02-28",
+      "endDate": "2023-11-23",
+      // "score": "10",
+      // "courses": [
+      //   "Theory of Relativity"
+      // ]
     }
   ],
   "awards": [
