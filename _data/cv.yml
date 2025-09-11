@@ -2,18 +2,18 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Nícolas André da Costa Morazotti
     - name: Date of Birth
-      value: 14th March 1879
+      value: 24th June 1994
     - name: Languages
-      value: English, German
+      value: Portuguese, English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Instituto de Física de São Carlos, Universidade de São Paulo, São Carlos, Brasil
+      year: 2023
       description:
         - Description 1.
         - Description 2.
