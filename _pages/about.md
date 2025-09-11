@@ -28,8 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Bachelor (2015), Master (2018) and Ph.D. (2023) in Physics done in Instituto de Física de São Carlos - USP under the supervision of Reginaldo de Jesus Napolitano
-
+Bachelor (2015), Master (2018) and Ph.D. (2023) in Physics done in Instituto de Física de São Carlos - USP 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
