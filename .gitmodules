@@ -1,0 +1,3 @@
+[submodule "fisica_experimental_b"]
+	path = fisica_experimental_b
+	url = git@github.com:morazotti/fisica_experimental_b.git
