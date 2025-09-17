@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.ufscar.br/'>Universidade Federal de São Carlos</a>. <i>Tu ne cede malis, sed contra audentior ito.</i>
 
 profile:
   align: right
@@ -28,9 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Bachelor's (2015), master's (2018), and Ph.D. (2023) in Physics from the Instituto de Física de São Carlos - USP. During my master's, I worked in the area of Quantum Mechanics Foundations, particularly on aspects of generalized Wigner transformations in the language of Operational-Probabilistic Theories. During my Ph.D., I used Quantum Control Theory and Machine Learning techniques to control a qubit under decoherence noise. I also  worked at a company that integrates Big Data, Machine Learning, and Bioinformatics. Some of my interests include Quantum Computing, Quantum Information, applications of Machine Learning in research, and Quantum Control Theory.
-
-Currently
+Bachelor's (2015), master's (2018), and Ph.D. (2023) in Physics from the Instituto de Física de São Carlos - USP. During my master's, I worked in the area of Quantum Mechanics Foundations, particularly on aspects of generalized Wigner transformations in the language of Operational-Probabilistic Theories. During my Ph.D., I used Quantum Control Theory and Machine Learning techniques to control a qubit under decoherence noise. I also  worked at a company that integrates Big Data, Machine Learning, and Bioinformatics. Currently, I am teaching at the Federal University of São Carlos as an adjunct professor. Some of my interests include Quantum Computing, Quantum Information, applications of Machine Learning in research, and Quantum Control Theory.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder. -->
 
