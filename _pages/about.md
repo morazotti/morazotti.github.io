@@ -12,7 +12,7 @@ profile:
     <p>Rodovia Washington Luís,</p>
     <p>Km 235 (SP-310)</p>
     <p>CEP 13565-905</p>
-    <p>São Carlos, São  Paulo</p>
+    <p>São Carlos, São Paulo</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

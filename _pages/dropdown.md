@@ -5,6 +5,8 @@ nav: true
 nav_order: 8
 dropdown: true
 children:
+  - title: Física Experimental I
+    permalink: /fisica_experimental_i
   - title: bookshelf
     permalink: /books/
   - title: divider
