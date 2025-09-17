@@ -10,4 +10,4 @@ nav_order: 6
 <!-- For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course. -->
 
 <!-- Organize your courses by years, topics, or universities, however you like! -->
-[Física Experimental B](../fisica_experimental_b/index.html)
+[Física Experimental I](../fisica_experimental_i/index.html)
