@@ -44,13 +44,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Material de disciplinas que ministrei",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -78,6 +71,13 @@ ninja.data = [{
               section: "Dropdown",
               handler: () => {
                 window.location.href = "/blog/";
+              },
+            },{id: "dropdown-física-experimental-i",
+              title: "Física Experimental I",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "/fisica_experimental_i";
               },
             },{id: "post-a-post-with-plotly-js",
         
