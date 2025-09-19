@@ -51,14 +51,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "dropdown-física-experimental-i",
-              title: "Física Experimental I",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/fisica_experimental_i";
-              },
-            },{id: "dropdown-bookshelf",
+        },{id: "dropdown-bookshelf",
               title: "bookshelf",
               description: "",
               section: "Dropdown",
